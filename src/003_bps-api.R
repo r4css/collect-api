@@ -14,7 +14,7 @@ res <- GET("https://webapi.bps.go.id/v1/api/dataexim/",
                         jenishs = "1", 
                         tahun = "2021", 
                         periode = "1", 
-                        key = "98da5d0ebc647133dfd4a27dadbdeb31"))
+                        key = "---"))
 
 # Lihat response
 res
