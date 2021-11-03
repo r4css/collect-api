@@ -1,5 +1,5 @@
 # Install Packages (Cukup 1 Kali)
-install.packages(c("wbstats", "tidyverse"))
+install.packages(c("wbstats"))
 
 # Load Package
 library(wbstats)

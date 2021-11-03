@@ -1,5 +1,5 @@
 # Install Packages (Cukup 1 Kali)
-install.packages(c("htt", "jsonlite", "tidyverse"))
+install.packages(c("htt", "jsonlite"))
 
 # Load Packages
 library(httr)
